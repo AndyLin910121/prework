@@ -14,6 +14,7 @@ class ViewController: UIViewController {
     @IBOutlet weak var tipControl: UISegmentedControl!
     @IBOutlet weak var totalLabel: UILabel!
     
+    @IBOutlet weak var testLable: UILabel!
     
     override func viewDidLoad() {
         super.viewDidLoad()
